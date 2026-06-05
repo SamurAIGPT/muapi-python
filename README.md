@@ -1,2 +1,2 @@
 # muapi-python
-Python Sdk for Muapu
+Python Sdk for Muapi
