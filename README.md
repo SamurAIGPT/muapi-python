@@ -4,6 +4,12 @@ Official Python SDK for MuAPI.
 
 Generate images, videos, audio, run AI enhancement workflows, upload files, manage predictions, and interact with MuAPI directly from Python.
 
+## Related Projects
+
+- [MuAPI](https://muapi.ai) — Unified API for image, video, and audio generation across hundreds of AI models. Follow the [API reference](https://muapi.ai/docs/api-reference), [quick start](https://muapi.ai/docs/quick-start), and [access-key guide](https://muapi.ai/access-keys).
+- [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to the same generation API.
+- [muapi-javascript](https://github.com/SamurAIGPT/muapi-javascript) — Official JavaScript SDK for MuAPI.
+
 ## Installation
 
 ```bash
