@@ -9,6 +9,9 @@ Generate images, videos, audio, run AI enhancement workflows, upload files, mana
 - [MuAPI](https://muapi.ai) — Unified API for image, video, and audio generation across hundreds of AI models. Follow the [API reference](https://muapi.ai/docs/api-reference), [quick start](https://muapi.ai/docs/quick-start), and [access-key guide](https://muapi.ai/access-keys).
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to the same generation API.
 - [muapi-javascript](https://github.com/SamurAIGPT/muapi-javascript) — Official JavaScript SDK for MuAPI.
+- [Text-to-Speech-API](https://github.com/Anil-matcha/Text-to-Speech-API) — compare speech-generation models and raw HTTP examples.
+- [Speech-to-Text-API](https://github.com/Anil-matcha/Speech-to-Text-API) — compare transcription and audio-analysis models.
+- [Voice-Cloning-API](https://github.com/Anil-matcha/Voice-Cloning-API) — compare speaking and singing voice-cloning workflows.
 
 ## Installation
 
